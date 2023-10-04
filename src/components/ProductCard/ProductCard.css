@@ -1,0 +1,29 @@
+.product-card{
+    width: 250px;
+    margin: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.product-card img{
+    width: 80%;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.prod-price{
+    display: flex;
+}
+
+.heart-red{
+    color: red;
+}
+
+.heart-blue{
+    color: blue;
+}
